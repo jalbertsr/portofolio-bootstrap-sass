@@ -1,0 +1,69 @@
+.wraper {
+  background-color: white;
+  width: 85%;
+  margin: 0 auto;
+  margin-top: 9%;
+}
+
+.img-profile {
+  margin-top: -110px;
+  margin-left: 40%;
+}
+
+footer div {
+  background-color: #3B5A76;
+  color: white;
+  height: 60px;
+  width: 101.2%;
+}
+footer div p {
+  margin-top: 1.5%;
+}
+
+body {
+  background-color: #EDEDED;
+}
+body div h1 {
+  text-align: center;
+}
+
+body div.wraper div.container-fluid div div.bg-exp {
+  background-color: #EDEDED;
+  margin-bottom: 3%;
+  padding: 1%;
+}
+body div.wraper div.container-fluid div div.bg-exp p.year-name {
+  display: inline;
+}
+body div.wraper div.container-fluid div div.bg-exp p {
+  text-align: left;
+  display: inline-block;
+}
+
+strong {
+  color: #3B5A76;
+}
+
+h2 {
+  color: #3A5977;
+  font-size: 25px;
+}
+
+ul {
+  margin-top: 5%;
+  padding: 0;
+}
+ul li {
+  list-style-type: none;
+  margin-bottom: 6%;
+}
+ul li:nth-child(3) i {
+  margin-right: 5px;
+}
+ul li:nth-child(4) i {
+  margin-right: 1px;
+}
+
+div.projects img {
+  margin: 2%;
+}
